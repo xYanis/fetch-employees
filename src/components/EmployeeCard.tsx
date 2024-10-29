@@ -28,6 +28,5 @@ interface EmployeeCardProps {
   
   export default EmployeeCard;
   
-  // Ajoutez cette ligne pour éviter l'erreur "not a module"
   export { };
   
